@@ -1,4 +1,4 @@
-# Bayesian linear models, Bayesian ridge and Bayesian LASSO:
+#### Bayesian linear models, Bayesian ridge and Bayesian LASSO:
 
 `blm.stan`, `ridge.stan` and `lasso.stan` define the STAN code for a bayesian linear model, bayesian ridge model and bayesian LASSO model respectively.  
 
